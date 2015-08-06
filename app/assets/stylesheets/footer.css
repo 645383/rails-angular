@@ -1,0 +1,11 @@
+.panel-footer{
+    position : fixed;
+    bottom : 0;
+    left: 0;
+    right: 0;
+}
+.content-container:after {
+    content: "";
+    display: block;
+    height: 50px;
+}

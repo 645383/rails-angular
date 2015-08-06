@@ -1,0 +1,15 @@
+.product{
+    width: 300px;
+    border: 3px solid #000000;
+    border-radius: 7px;
+}
+
+.price{
+    float: right;
+}
+
+p{
+    padding: 5px;
+    word-break: break-all;
+    display: inline-block;
+}

@@ -1,0 +1,9 @@
+{
+  "name": "RailsAngular",
+  "dependencies": {
+    "lodash": "latest",
+    "angular": "latest",
+    "angular-sanitize": "latest",
+    "angular-ui-router": "latest"
+  }
+}

@@ -1,0 +1,4 @@
+h1 Products
+ul.products
+  .list-group ng-repeat="product in products"
+    a.list-group-item href="/products/{{product.id}}" {{product.name}}
